@@ -1,0 +1,3 @@
+# excluding csv
+fashion-mnist_train.csv
+fashion-mnist_test.csv
